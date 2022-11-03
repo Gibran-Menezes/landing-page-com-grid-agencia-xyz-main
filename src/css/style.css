@@ -159,11 +159,7 @@ body{
     height: 35px;
     bottom: 40px;
     position: absolute;
-    animation: downarrow 0.6 infinite alternate ease-in-out;
-}
-
-@keyframes downarrow {
-
+    animation: downarrow 0.6s infinite alternate ease-in-out;
 }
 
 @-webkit-keyframes downarrow {
